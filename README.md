@@ -34,5 +34,5 @@ Screenshot 2: Word Cloud
 ![download (5)](https://github.com/Sameer1232018/sentiment_analysis/assets/49482350/9a782525-913d-4b7f-9ce6-718204b00f62)
 
 Screenshot 3: The ressults
-![download (3)](https://github.com/Sameer1232018/sentiment_analysis/assets/49482350/4f5459b0-6ae2-4c52-aa63-5a29baf43baa)
+![image](https://github.com/Sameer1232018/sentiment_analysis/assets/49482350/f24568e7-0117-4d7b-b1a1-167f2161d52f)
 
