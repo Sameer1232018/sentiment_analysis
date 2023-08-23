@@ -1,7 +1,5 @@
 # COVID-19 Tweets Sentiment Analysis
 
-![Sentiment Analysis](sentiment_analysis.png)
-
 ## Project Overview
 This project focuses on sentiment analysis of COVID-19 related tweets. By utilizing TF-IDF and Bag-of-Words (BoW) vectorization methods, we aim to determine the sentiment expressed in these tweets. The project includes the implementation of various machine learning models and data visualization techniques to analyze and visualize the sentiment classification performance.
 
@@ -23,7 +21,7 @@ This project focuses on sentiment analysis of COVID-19 related tweets. By utiliz
 4. Modify and experiment with different parameters, vectorization methods, and models as desired.
 
 ## Data Sources
-- Specify the source of the COVID-19 tweets dataset used for sentiment analysis.
+https://www.kaggle.com/datasets/datatattle/covid-19-nlp-text-classification
 
 ## LSTM Model
 - The LSTM model for sentiment analysis can be found in the `lstm_sentiment_analysis.py` file. Run this file to explore the LSTM approach to sentiment classification.
@@ -32,4 +30,9 @@ This project focuses on sentiment analysis of COVID-19 related tweets. By utiliz
 Screenshot 1: Sentiment Distribution
 ![download (4)](https://github.com/Sameer1232018/sentiment_analysis/assets/49482350/247da2ab-ee45-4d6b-83d0-a0fa44631a1c)
 
+Screenshot 2: Word Cloud
+![download (5)](https://github.com/Sameer1232018/sentiment_analysis/assets/49482350/9a782525-913d-4b7f-9ce6-718204b00f62)
+
+Screenshot 3: The ressults
+![download (3)](https://github.com/Sameer1232018/sentiment_analysis/assets/49482350/4f5459b0-6ae2-4c52-aa63-5a29baf43baa)
 
