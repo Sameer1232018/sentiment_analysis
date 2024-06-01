@@ -28,20 +28,11 @@ https://www.kaggle.com/datasets/datatattle/covid-19-nlp-text-classification
 
 ## Screenshots
 Screenshot 1: Sentiment Distribution
-![download (4)](https://github.com/Sameer1232018/sentiment_analysis/assets/49482350/247da2ab-ee45-4d6b-83d0-a0fa44631a1c)
+![image](https://github.com/Sameer1232018/sentiment_analysis/assets/49482350/1f61238b-352e-47ac-a01b-2afe9c1a62ea)
 
 Screenshot 2: Word Cloud
 ![download (5)](https://github.com/Sameer1232018/sentiment_analysis/assets/49482350/9a782525-913d-4b7f-9ce6-718204b00f62)
 
 Screenshot 3: The ressults
-![image](https://github.com/Sameer1232018/sentiment_analysis/assets/49482350/f24568e7-0117-4d7b-b1a1-167f2161d52f)
-
-## LSTM
-
-Screenshot 4: Training and Validation Accuracy
-![image](https://github.com/Sameer1232018/sentiment_analysis/assets/49482350/a9c92d4a-1009-4d4f-8313-5d1c540ce16d)
-
-
-Screenshot 5: Training and Validation Loss
-![image](https://github.com/Sameer1232018/sentiment_analysis/assets/49482350/f72ddafe-ee9b-4f24-b002-37acdc7a753c)
+![image](https://github.com/Sameer1232018/sentiment_analysis/assets/49482350/865fd462-cb5e-435f-956b-5f7e108a405e)
 
